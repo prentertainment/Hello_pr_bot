@@ -52,7 +52,7 @@ You can extend this bot to:
 
 ## 👤 Credits
 
-Created with ❤️ by [Drama Tv24](https://t.me/DramaTv24)
+Created with ❤️ by [PRBots](https://t.me/PRBots0)
 
 ---
 
