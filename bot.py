@@ -12,3 +12,6 @@ def start_handler(client, message):
     message.reply_text("Hello! Your bot is working successfully on Railway!")
 
 app.run()
+import logging
+logging.basicConfig(level=logging.INFO)
+logging.info("Bot started")
