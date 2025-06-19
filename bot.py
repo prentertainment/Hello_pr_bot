@@ -2,7 +2,11 @@ import os
 import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pyrogram import Client, filters
+print("✅ Code loaded, before importing Pyrogram")
+from pyrogram import Client
+print("✅ Imported Pyrogram")
 
+#... বাকি কোড
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 API_ID = int(os.getenv("API_ID", 0))
 API_HASH = os.getenv("API_HASH")
