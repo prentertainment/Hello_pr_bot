@@ -1,3 +1,4 @@
+print("✅ Bot is starting...")  # প্রথমেই Logs-এ এইটা দেখা যাবে
 import os
 import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
